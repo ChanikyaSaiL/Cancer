@@ -1,0 +1,41 @@
+# Ignore dataset folders
+archive/
+archive (1)/
+photo_split/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore model checkpoints
+models/saved_models/
+
+# Ignore other temporary files
+*.tmp
+*.log
+*.pth
+
+# Ignore zip files
+*.zip
+
+# Datasets & archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Model files
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large output folders
+data/
+datasets/
+results/
+outputs/
